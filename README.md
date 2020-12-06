@@ -10,7 +10,7 @@ git clone git@github.com:mongoma/foodgram-docker.git
 ```
 ### foodgram をクローン
 ```
-git clone git@github.com:mongoma/foodgram.git
+git clone -b develop git@github.com:mongoma/foodgram.git
 ```
 ### Docker起動
 ```
