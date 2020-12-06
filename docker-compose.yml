@@ -1,6 +1,7 @@
 version: '3'
 services:
-  web:
+  app:
+    container_name: foodgram
     build: .
     volumes:
       - ./foodgram:/var/www/html/foodgram
