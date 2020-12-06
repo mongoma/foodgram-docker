@@ -1,0 +1,4 @@
+foodgram/*
+!foodgram/.gitkeep
+database/*
+!database/.gitkeep
