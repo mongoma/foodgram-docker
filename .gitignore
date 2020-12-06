@@ -1,5 +1,4 @@
-foodgram/*
-!foodgram/.gitkeep
+foodgram
 database/*
 !database/.gitkeep
 mysql
